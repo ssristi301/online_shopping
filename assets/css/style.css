@@ -1,0 +1,51 @@
+
+body
+{
+	overflow-x:hidden;
+}
+
+.four-pic
+{
+	width:450px;
+	height:300px;
+
+}
+.my-card
+{
+	height:300px;
+}
+.section
+{
+	height:250px;
+	width:250px;
+	margin:0px auto;
+	border-radius:60%;
+	overflow:hidden;
+	background-color:aqua;
+}
+.section img
+{
+	width:100%;
+}
+.menu ul li:hover
+{
+	background-color:white;
+	
+}
+.menu ul
+{
+list-style-type:none;	
+}
+.menu ul li a
+{
+	text-decoration:none;
+}
+.shri
+{
+	height:570px;
+	float:left;
+}
+.footer
+{
+	`height:300px;
+}
